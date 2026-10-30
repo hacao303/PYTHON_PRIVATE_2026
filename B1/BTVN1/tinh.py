@@ -1,0 +1,7 @@
+name = input("Nhap ten: ")
+a = float(input("Nhap so thu nhat: "))
+b = float(input("Nhap so thu hai: "))
+print(f"Xin chao {name}")
+print(f"Tong: {a + b}")
+print(f"Hieu: {a - b}")
+print(f"Tich: {a * b}")
